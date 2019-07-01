@@ -110,9 +110,9 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>VvipTaxi</groupId>
+      <groupId>com.sm_taxi_driver_router</groupId>
       <artifactId>router</artifactId>
-      <version>unspecified</version>
+      <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
